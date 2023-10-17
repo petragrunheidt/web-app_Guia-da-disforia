@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  next-web-app:
+    container_name: next-web-app
+    image: oven/bun:latest
+    stdin_open: true
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./node_modules:/next-web-app/node_modules
+      - .:/next-web-app
+    working_dir: /next-web-app
+    command: 'bun --bun run dev'

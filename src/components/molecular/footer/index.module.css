@@ -1,0 +1,10 @@
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  height: 8vh;
+  width: 100%;
+  padding: 0 2.5rem;
+  background: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+}
