@@ -5,6 +5,21 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: #ff5c5c;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: Capriola;
+  color: #ff5c5c;
+  padding:  2.5rem 0
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  font-family: Capriola;
+  color: #ff5c5c;
+  padding:  1rem 0
 }
