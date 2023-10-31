@@ -1,6 +1,6 @@
-import { useRouter } from 'next/router';
-import articles from './articles';
-import PreviousNext from '@components/molecular/previous_next';
+import { useRouter } from "next/router";
+import articles from "./articles";
+import PreviousNext from "@components/molecular/previous_next";
 
 type ArticlePageProps = {
   slug: string;
@@ -11,14 +11,26 @@ function ArticlePage({ slug }: ArticlePageProps) {
   if (router.isFallback) {
     return <div>Loading...</div>;
   }
-  const articleList = [ 'introducao', 'genero', 'historia', 'euforia', 'disforia-fisica' ];
-  const notReady = [ 'dissociacao' ]
+  const articleList = [
+    "introducao",
+    "genero",
+    "historia",
+    "euforia",
+    "disforia-fisica",
+    "dissociacao",
+    "disforia-social",
+  ];
+
   const currentArticle = articles[slug];
   const currentIndex = articleList.indexOf(slug);
 
   const ArticleComponent = currentArticle.component;
-  const previousInfo = currentIndex > 0 ? articles[articleList[currentIndex - 1]].info : null;
-  const nextInfo = currentIndex < articleList.length - 1 ? articles[articleList[currentIndex + 1]].info : null;
+  const previousInfo =
+    currentIndex > 0 ? articles[articleList[currentIndex - 1]].info : null;
+  const nextInfo =
+    currentIndex < articleList.length - 1
+      ? articles[articleList[currentIndex + 1]].info
+      : null;
 
   return (
     <>
@@ -31,25 +43,23 @@ function ArticlePage({ slug }: ArticlePageProps) {
 export default ArticlePage;
 
 export async function getStaticPaths() {
-  const articles = [
-    { slug: 'introducao' },
-  ];
+  const articles = [{ slug: "introducao" }];
 
   const paths = articles.map((article) => ({
     params: { slug: article.slug },
   }));
 
-  return { paths, fallback: 'blocking' };
+  return { paths, fallback: "blocking" };
 }
 
 type getStaticPageProps = {
   params: {
-  slug: string;
-  }
+    slug: string;
+  };
 };
 
 export async function getStaticProps({ params }: getStaticPageProps) {
-    const slug = params.slug;
+  const slug = params.slug;
 
   return {
     props: {
