@@ -1,5 +1,5 @@
-import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const Genero = () => (
   <div>
@@ -12,37 +12,37 @@ const Genero = () => (
             psicólogo John Money, que propôs o uso da palavra em 1955 para
             diferenciar o “sexo mental” do “sexo físico”. No entanto, Money não
             foi o primeiro a fazer isso. A antropóloga cultural{" "}
-            <a href="https://pt.wikipedia.org/wiki/Margaret_Mead">
+            <Link href="https://pt.wikipedia.org/wiki/Margaret_Mead">
               Margaret Mead
-            </a>{" "}
+            </Link>{" "}
             usou o termo em 1949 em seu livro “Male and Female” para distinguir
             comportamentos e papéis de gênero do sexo biológico.&nbsp;
           </p>
           <p>O sexo humano pode ser dividido em três categorias:</p>
           <ul>
             <li>
-              <a href="https://pt.wikipedia.org/wiki/Gen%C3%B3tipo">
+              <Link href="https://pt.wikipedia.org/wiki/Gen%C3%B3tipo">
                 <strong>Genótipo</strong>
-              </a>
+              </Link>
               <strong>:</strong> o cariótipo cromossômico geneticamente definido
               de um organismo (XX, XY e{" "}
-              <a href="https://twitter.com/sciencevet2/status/1035250518870900737?lang=en">
+              <Link href="https://twitter.com/sciencevet2/status/1035250518870900737?lang=en">
                 todas as suas variantes
-              </a>
+              </Link>
               ).
             </li>
             <li>
-              <a href="https://pt.wikipedia.org/wiki/Fen%C3%B3tipo">
+              <Link href="https://pt.wikipedia.org/wiki/Fen%C3%B3tipo">
                 <strong>Fenótipo</strong>
-              </a>
+              </Link>
               : As características sexuais primárias e secundárias observáveis
-              ​​(genitais, distribuição de gordura e músculos, estrutura óssea,
+              (genitais, distribuição de gordura e músculos, estrutura óssea,
               etc).
             </li>
             <li>
-              <a href="https://pt.wikipedia.org/wiki/G%C3%A9nero">
+              <Link href="https://pt.wikipedia.org/wiki/G%C3%A9nero">
                 <strong>Gênero</strong>
-              </a>
+              </Link>
               <strong>:</strong> As características sexuais <em>não </em>
               observáveis, o modelo mental interno de uma pessoa a respeito do
               seu próprio sexo e a forma como ela o expressa.
@@ -106,9 +106,9 @@ const Genero = () => (
             durante a gestação, enquanto o córtex cerebral está se formando
             (mais sobre isso no artigo{" "}
             <strong>
-              <a href="https://disforiadegenero.com.br/causas/">
+              <Link href="https://disforiadegenero.com.br/causas/">
                 Causas da disforia de gênero
-              </a>
+              </Link>
             </strong>
             ). Esse modelo mental então informa, em um nível não consciente,
             para quais aspectos do espectro de gênero uma pessoa se inclinará
@@ -130,9 +130,9 @@ const Genero = () => (
           </p>
           <p>
             No lado social, o gênero envolve nosso{" "}
-            <a href="https://pt.wikipedia.org/wiki/Habitus">
+            <Link href="https://pt.wikipedia.org/wiki/Habitus">
               <em>habitus</em>
-            </a>
+            </Link>
             : nossa apresentação, nossos maneirismos e comportamentos, como nos
             comunicamos, como reagimos, quais são nossas expectativas da vida e
             os papéis que cumprimos ao longo da vida. A autora Susan Stryker
@@ -171,9 +171,9 @@ const Genero = () => (
             de que gênero é inteiramente uma construção social e de que qualquer
             criança pode ser criada para acreditar que é o que foi ensinada a
             ser. Seu experimento foi um grande fracasso (veja a seção{" "}
-            <a href="https://disforiadegenero.com.br/disforia-bioquimica">
+            <Link href="https://disforiadegenero.com.br/disforia-bioquimica">
               Disforia e dissociação
-            </a>
+            </Link>
             ). O gênero não pode ser simplesmente alterado por condicionamento
             social. O que pode ser mudado é nossa própria compreensão pessoal de
             nosso gênero à medida que amadurecemos como indivíduos.
@@ -197,19 +197,19 @@ const Genero = () => (
             Não-binário basicamente pode ser simplificado como uma não afinidade
             exclusiva com gêneros os binários, Masculino ou Feminino. Isso pode
             ser uma falta de afinidade com qualquer identidade (
-            <a href="https://pt.wikipedia.org/wiki/Ageneridade">agênero</a>),
+            <Link href="https://pt.wikipedia.org/wiki/Ageneridade">agênero</Link>),
             uma afinidade total com ambos (
-            <a href="https://pt.wikipedia.org/wiki/Bigeneridade">bi-gênero</a>),
+            <Link href="https://pt.wikipedia.org/wiki/Bigeneridade">bi-gênero</Link>),
             uma afinidade equilibrada com ambos (
-            <a href="https://pt.wikipedia.org/wiki/Androginia">andrógino</a>),
+            <Link href="https://pt.wikipedia.org/wiki/Androginia">andrógino</Link>),
             uma afinidade que muda de dia para dia (
-            <a href="https://pt.wikipedia.org/wiki/G%C3%AAnero-fluido">
+            <Link href="https://pt.wikipedia.org/wiki/G%C3%AAnero-fluido">
               gênerofluido
-            </a>
+            </Link>
             ), uma afinidade parcial (
-            <a href="https://pt.wikipedia.org/wiki/Demigeneridade">
+            <Link href="https://pt.wikipedia.org/wiki/Demigeneridade">
               demigênero
-            </a>
+            </Link>
             ), ou mesmo uma afinidade com todo o espectro de gênero de uma vez
             (pangênero).
           </p>
@@ -240,9 +240,9 @@ const Genero = () => (
             que essa simples divisão. Por exemplo, no Brasil, a autopercepção de
             pessoas que se identificam como travestis não é necessariamente
             similar à de uma mulher trans. O artigo de{" "}
-            <a href="https://brunabenevidex.medium.com/travesti-ou-transexual-tem-diferen%C3%A7a-f8166e67e1bc">
+            <Link href="https://brunabenevidex.medium.com/travesti-ou-transexual-tem-diferen%C3%A7a-f8166e67e1bc">
               Bruna Benevides
-            </a>{" "}
+            </Link>{" "}
             “Travesti ou Transexual, tem diferença?” traz informações mais
             detalhadas sobre esse tema.
           </p>

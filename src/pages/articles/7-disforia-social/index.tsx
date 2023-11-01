@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const DisforiaSocial = () => (
@@ -55,30 +56,30 @@ const DisforiaSocial = () => (
           <div>
             <div>
               <figure>
-                <img
+                <Image
                   decoding="async"
-                  src="https://genderdysphoria.fyi/tweets/NightlingBug.jpg"
+                  src=""
                   alt=""
                 />
               </figure>
             </div>
             <div>
               <p>
-                <a
+                <Link
                   rel="noreferrer noopener"
                   href="https://twitter.com/NightlingBug"
                   target="_blank"
                 >
                   <strong>Nightling Bug</strong> 🗝️
-                </a>
+                </Link>
                 <br />
-                <a
+                <Link
                   rel="noreferrer noopener"
                   href="https://twitter.com/NightlingBug"
                   target="_blank"
                 >
                   @NightlingBug
-                </a>
+                </Link>
               </p>
             </div>
           </div>
@@ -136,13 +137,13 @@ const DisforiaSocial = () => (
               por razões que você não consegue explicar{" "}
               <em>(traduzido do inglês)</em>
               <br />
-              <a
+              <Link
                 href="https://twitter.com/NightlingBug/status/1215731319973523456"
                 target="_blank"
                 rel="noreferrer noopener"
               >
                 12:25 – 10 de janeiro de 2020
-              </a>
+              </Link>
             </p>
           </blockquote>
         </div>
@@ -160,7 +161,7 @@ const DisforiaSocial = () => (
       </p>
       <p>
         Pronomes neutros de gênero também podem ser perturbadores para pessoas
-        trans binárias se usados ​​de uma forma que deixe claro que a pessoa
+        trans binárias se usados de uma forma que deixe claro que a pessoa
         está evitando o pronome que corresponde a elas. Isso geralmente é uma
         indicação de que uma pessoa foi lida como transgênero, e a pessoa que se
         dirige a ela não sabe quais pronomes usar. Perguntar pelos pronomes pode
@@ -223,16 +224,16 @@ const DisforiaSocial = () => (
           <div>
             <div>
               <figure>
-                <img
+                <Image
                   decoding="async"
-                  src="https://disforiadegenero.com.br/wp-content/uploads/2021/11/vNVxq4wd_400x400.jpg"
+                  src=""
                   alt=""
                 />
               </figure>
             </div>
             <div>
               <p>
-                <a
+                <Link
                   rel="noreferrer noopener"
                   href="https://twitter.com/emmy_zje"
                   target="_blank"
@@ -240,9 +241,9 @@ const DisforiaSocial = () => (
                   data-id="https://twitter.com/emmy_zje"
                 >
                   <strong>Dr. Emmy Zje</strong>
-                </a>{" "}
+                </Link>{" "}
                 <br />
-                <a
+                <Link
                   href="https://twitter.com/emmy_zje"
                   data-type="URL"
                   data-id="https://twitter.com/emmy_zje"
@@ -250,7 +251,7 @@ const DisforiaSocial = () => (
                   rel="noreferrer noopener"
                 >
                   @Emmy_Zje
-                </a>
+                </Link>
               </p>
             </div>
           </div>
@@ -264,19 +265,16 @@ const DisforiaSocial = () => (
               Eu não transicionei para virar um estereótipo … eu transicionei
               para escapar deles. <em>(traduzido do inglês)</em>
               <br />
-              <a
+              <Link
                 rel="noreferrer noopener"
                 href="https://twitter.com/emmy_zje"
-                data-type="URL"
-                data-id="https://twitter.com/emmy_zje"
-                target="_blank"
-              ></a>
-              <a
+              ></Link>
+              <Link
                 href="https://twitter.com/Emmy_Zje/status/1219968711681040384"
                 data-type="URL"
               >
                 05:03 – 22 de Janeiro de 2020
-              </a>
+              </Link>
             </p>
           </blockquote>
         </div>
@@ -289,7 +287,7 @@ const DisforiaSocial = () => (
         muito maior em relação à sua aparência física ao passar no caixa do
         supermercado, pois nessa situação existe o risco de ela ser percebida
         pelo gênero incorreto ou como trans. Ao mesmo tempo, essa pessoa pode se
-        sentir completamente confortável ​​ao interagir com pessoas mais
+        sentir completamente confortável ao interagir com pessoas mais
         próximas, pois nesse ambiente ela é sempre vista e tratada pelo seu
         gênero correto.
       </p>
@@ -512,16 +510,16 @@ const DisforiaSocial = () => (
           <div>
             <div>
               <figure>
-                <img
+                <Image
                   decoding="async"
-                  src="https://genderdysphoria.fyi/tweets/Adoratrix.jpg"
+                  src=""
                   alt=""
                 />
               </figure>
             </div>
             <div>
               <p>
-                <a
+                <Link
                   rel="noreferrer noopener"
                   href="https://twitter.com/CallidoraStrix"
                   target="_blank"
@@ -529,9 +527,9 @@ const DisforiaSocial = () => (
                   data-id="https://twitter.com/CallidoraStrix"
                 >
                   <strong>Adoratrix</strong>
-                </a>
+                </Link>
                 <br />
-                <a
+                <Link
                   rel="noreferrer noopener"
                   href="https://twitter.com/CallidoraStrix"
                   target="_blank"
@@ -539,7 +537,7 @@ const DisforiaSocial = () => (
                   data-id="https://twitter.com/CallidoraStrix"
                 >
                   @CallidoraStrix
-                </a>
+                </Link>
               </p>
             </div>
           </div>
@@ -593,14 +591,14 @@ const DisforiaSocial = () => (
               pessoas que amo e por quem me sinto atraída{" "}
               <em>(traduzido do inglês)</em>
               <br />
-              <a
+              <Link
                 href="https://twitter.com/CallidoraStrix/status/1216112014411599877"
                 data-type="URL"
                 data-id="https://twitter.com/CallidoraStrix/status/1216112014411599877"
-              ></a>
-              <a href="https://twitter.com/Adoratrix/status/1216112014411599877">
+              ></Link>
+              <Link href="https://twitter.com/Adoratrix/status/1216112014411599877">
                 13:37 – 11 de janeiro de 2020
-              </a>
+              </Link>
             </p>
           </blockquote>
         </div>

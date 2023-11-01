@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const Historia = () => (
   <article>
@@ -6,16 +7,16 @@ const Historia = () => (
       <h1>Uma breve história da disforia de gênero</h1>
       <p>
         Em 1948, o famoso sexólogo{" "}
-        <a href="https://pt.wikipedia.org/wiki/Alfred_Kinsey">Alfred Kinsey</a>{" "}
+        <Link href="https://pt.wikipedia.org/wiki/Alfred_Kinsey">Alfred Kinsey</Link>{" "}
         foi contatado por uma mulher cujo “filho”, designado como pertencente ao
         gênero masculino após o nascimento (ou seja, “AMAB”) insistia
         veementemente que na verdade era uma menina e que algo estava bastante
         errado. A mãe, em vez de tentar reprimir a filha, buscou ajudá-la a se
         tornar quem ela própria sabia ser. Kinsey procurou um endocrinologista
         alemão chamado{" "}
-        <a href="https://pt.wikipedia.org/wiki/Harry_Benjamin">
+        <Link href="https://pt.wikipedia.org/wiki/Harry_Benjamin">
           Harry Benjamin
-        </a>{" "}
+        </Link>{" "}
         para ver se ele poderia ajudar a criança. O Dr. Benjamin então
         desenvolveu um protocolo de terapia com estrogênio para a adolescente e
         trabalhou com a família para encontrar ajuda cirúrgica.
@@ -47,14 +48,14 @@ const Historia = () => (
       </p>
       <div>
         <figure>
-          <a href="">
+          <Link href="">
             <Image src="/" alt="" width="1024" height="431" />
-          </a>
+          </Link>
           <figcaption>
             A{" "}
-            <a href="https://en.wikipedia.org/wiki/Benjamin_scale">
+            <Link href="https://en.wikipedia.org/wiki/Benjamin_scale">
               Escala Benjamin
-            </a>{" "}
+            </Link>{" "}
             (1966)
           </figcaption>
         </figure>
@@ -96,22 +97,22 @@ const Historia = () => (
       </p>
       <div>
         <figure>
-          <a href="">
+          <Link href="">
             <Image src="/" alt="" width="1024" height="431" />
-          </a>
+          </Link>
           <figcaption>
             Festa à fantasia no Instituto de Pesquisa Sexual de Magnus
             Hirschfeld em Berlin (provavelmente tirada na virada entre os
             séculos 19 e 20). Magnus Hirschfeld (<em>de óculos</em>) aparece de
             mãos dadas com seu parceiro, Karl Giese (<em>centro</em>).{" "}
-            <a
+            <Link
               href="https://www.scientificamerican.com/article/the-forgotten-history-of-the-worlds-first-trans-clinic/"
               target="_blank"
               rel="noreferrer noopener"
             >
               Hirschfeld foi um pioneiro histórico no tratamento
               despatologizante de pessoas trans
-            </a>
+            </Link>
             . Créditos: Magnus-Hirschfeld-Gesellschaft e.V., Berlin.
           </figcaption>
         </figure>
@@ -122,19 +123,19 @@ const Historia = () => (
         pessoas pudessem se perceber e se assumir como trans, o que trouxe mais
         visibilidade acerca do que transições de gênero envolvem, promovendo
         maior conscientização do público. Um{" "}
-        <a href="https://williamsinstitute.law.ucla.edu/publications/age-trans-individuals-us/">
+        <Link href="https://williamsinstitute.law.ucla.edu/publications/age-trans-individuals-us/">
           estudo realizado em 2014
-        </a>{" "}
+        </Link>{" "}
         mostrou que 0,6% de adultos e 0,7% dos jovens nos Estados Unidos se
         identificavam como transgêneros, número que saltou para 1,8% entre
         alunos do ensino médio em{" "}
-        <a href="https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm">
+        <Link href="https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm">
           estudo realizado em 2016
-        </a>
+        </Link>
         , e em{" "}
-        <a href="https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf">
+        <Link href="https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf">
           pesquisa realizada em 2017
-        </a>
+        </Link>
         , 12% dos entrevistados de 18 a 34 não se identificaram como cisgênero.
       </p>
       <p>
@@ -243,7 +244,7 @@ const Historia = () => (
       </p>
       <p>
         Ok, dito isso, vamos ao que interessa:{" "}
-        <a href="/euforia">você sabe o que é euforia de gênero?</a>
+        <Link href="/euforia">você sabe o que é euforia de gênero?</Link>
       </p>
     </div>
   </article>

@@ -15,9 +15,9 @@ const Dissociacao = () => (
       </p>
       <p>
         Zinnia Jones fornece{" "}
-        <a href="https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/">
+        <Link href="https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/">
           estas descrições para despersonalização
-        </a>
+        </Link>
         :
       </p>
       <ul>
@@ -100,9 +100,9 @@ const Dissociacao = () => (
             </li>
             <li>
               Se você começar a tomar um antidepressivo{" "}
-              <a href="https://pt.wikipedia.org/wiki/Inibidor_seletivo_de_recapta%C3%A7%C3%A3o_de_serotonina">
+              <Link href="https://pt.wikipedia.org/wiki/Inibidor_seletivo_de_recapta%C3%A7%C3%A3o_de_serotonina">
                 ISRS
-              </a>{" "}
+              </Link>{" "}
               e tiver maior disponibilidade de serotonina, isso pode tornar a
               disforia menos intensa.
             </li>
@@ -160,9 +160,9 @@ const Dissociacao = () => (
           </p>
           <p>
             Uma demonstração disso é o trágico caso de{" "}
-            <a href="https://pt.wikipedia.org/wiki/David_Reimer">
+            <Link href="https://pt.wikipedia.org/wiki/David_Reimer">
               David Reimer
-            </a>
+            </Link>
             . Aos sete meses de idade, David e seu irmão gêmeo foram
             circuncidados para tratar um caso grave de fimose (um problema de
             pele no prepúcio). Houve um erro no procedimento médico e o pênis de
@@ -186,7 +186,7 @@ const Dissociacao = () => (
             decisão e sua teoria estavam completamente corretas e que David
             estaria vivendo uma vida feliz enquanto mulher. O resultado disso se
             vê até hoje, já que{" "}
-            <a
+            <Link
               href="https://embryo.asu.edu/pages/david-reimer-and-john-money-gender-reassignment-controversy-johnjoan-case#:~:text=In%20the%20mid%2D1960s%2C%20psychologist,due%20to%20a%20failed%20circumcision."
               target="_blank"
               rel="noreferrer noopener"
@@ -194,7 +194,7 @@ const Dissociacao = () => (
               os relatórios de Money foram utilizados para justificar a
               realização cirurgias genitais como uma medida apropriada em bebês
               com condições intersexo
-            </a>
+            </Link>
             . Hoje, décadas depois, ainda existem médicos que acreditam que você
             pode simplesmente mudar os órgãos genitais de uma criança e criá-la
             como qualquer gênero, um absurdo que gera danos muitas vezes
@@ -202,11 +202,11 @@ const Dissociacao = () => (
           </p>
           <p>
             Essa é uma das grandes dificuldades enfrentadas pela comunidade{" "}
-            <a href="https://pt.wikipedia.org/wiki/Intersexo">intersexo</a>.
+            <Link href="https://pt.wikipedia.org/wiki/Intersexo">intersexo</Link>.
             Aproximadamente um em cada 60 nascimentos resulta em algum tipo de
             condição intersexo (embora nem todos estejam relacionados à
             genitália). Frequentemente, os procedimentos “corretivos” usados
-            ​​em crianças intersexuais resultam em perda de função ou de
+            em crianças intersexuais resultam em perda de função ou de
             sensação na genitália. Com muita frequência, médicos optam pela
             designação feminina forçada porque é mais fácil construir uma vulva
             do que um pênis.

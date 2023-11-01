@@ -19,6 +19,16 @@ function ArticlePage({ slug }: ArticlePageProps) {
     "disforia-fisica",
     "dissociacao",
     "disforia-social",
+    "disforia-sexual",
+    "alivio-disforia",
+    "acessibilidade",
+    "causas",
+    "cromossomos",
+    "hormonios",
+    "th-masculinizante",
+    "th-feminizante",
+    "crs-masc",
+    "sindrome",
   ];
 
   const currentArticle = articles[slug];

@@ -1,4 +1,4 @@
-import React from "react";
+import Link from "next/link";
 
 const Introducao = () => (
   <article>
@@ -13,20 +13,20 @@ const Introducao = () => (
     </blockquote>
     <p>
       Desde que existe civilização humana,{" "}
-      <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_transg%C3%AAnero">
+      <Link href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_transg%C3%AAnero">
         existem pessoas
-      </a>{" "}
+      </Link>{" "}
       cujas experiências internas de gênero não se alinham com as
       características físicas de seus corpos. Os Gala, uma classe de sacerdotes
       do império sumério que existiu há mais de 4.500 anos,{" "}
-      <a href="https://en.wikipedia.org/wiki/Gala_(priests)">
+      <Link href="https://en.wikipedia.org/wiki/Gala_(priests)">
         possuíam um gênero que não era considerado
-      </a>{" "}
+      </Link>{" "}
       nem masculino, nem feminino. As culturas indígenas da América do Norte
       reconheciam um{" "}
-      <a href="https://pt.wikipedia.org/wiki/Terceiro_g%C3%AAnero">
+      <Link href="https://pt.wikipedia.org/wiki/Terceiro_g%C3%AAnero">
         terceiro gênero
-      </a>{" "}
+      </Link>{" "}
       muito antes do colonialismo europeu, e ainda o fazem até hoje. A
       imperatriz romana Heliogábalo (218 DC) chegou a ofereceu uma grande
       recompensa para qualquer pessoa capaz de realizar uma cirurgia de

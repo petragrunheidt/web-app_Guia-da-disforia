@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const DisforiaFisica = () => (
   <article>
     <p>
@@ -159,7 +161,7 @@ const DisforiaFisica = () => (
       sempre bem cuidadas e com esmalte.
     </p>
     <p>
-      Características físicas indesejáveis ​​podem levar uma pessoa a sentir
+      Características físicas indesejáveis podem levar uma pessoa a sentir
       “inveja” de pessoas que foram forçadas a removê-las devido a doenças, como
       câncer de testículo ou de mama. AMABs com disforia genital grave às vezes
       se imaginam tendo algum tipo de acidente estranho que causaria a perda de
@@ -179,7 +181,7 @@ const DisforiaFisica = () => (
       tempo, para melhor ou para pior. Por exemplo, algumas mulheres trans
       entram em transição sem se sentirem desconectadas de seus órgãos genitais,
       mas depois, à medida que as fontes maiores de disforia se dissolvem,
-      descobrem se sentir menos confortáveis ​​com sua configuração original. De
+      descobrem se sentir menos confortáveis com sua configuração original. De
       outro lado, algumas podem achar que com certeza precisarão da cirurgia de
       feminização facial, mas depois de 2 anos de terapia hormonal, percebem que
       estão realmente felizes com sua aparência.
@@ -216,9 +218,9 @@ const DisforiaFisica = () => (
       o recuo na sua linha frontal do cabelo e outras mudanças físicas
       lentamente causadas pela testosterona ao longo dos anos, por exemplo.
       Tratamos mais deste assunto no artigo sobre{" "}
-      <a href="https://disforiadegenero.com.br/disforia-fisica/">
+      <Link href="https://disforiadegenero.com.br/disforia-fisica/">
         Disforia e dissociação
-      </a>
+      </Link>
       .
     </p>
     <h2>Problemas internalizados de imagem corporal</h2>
