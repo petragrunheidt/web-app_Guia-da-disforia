@@ -1,4 +1,21 @@
 .container {
   position: relative;
-  width: 20rem;
+  text-align: end;
+  width: 35rem;
+}
+
+.openMenuContainer {
+  position: absolute;
+  width: 100%;
+  background: white;
+  z-index: 10;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.listItem {
+  font-size: medium;
+  line-height: 0.8;
 }
