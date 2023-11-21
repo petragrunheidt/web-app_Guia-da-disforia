@@ -11,30 +11,10 @@ function ArticlePage({ slug }: ArticlePageProps) {
   if (router.isFallback) {
     return <div>Loading...</div>;
   }
-  const articleList = [
-    "introducao",
-    "genero",
-    "historia",
-    "euforia",
-    "disforia-fisica",
-    "dissociacao",
-    "disforia-social",
-    "disforia-sexual",
-    "alivio-disforia",
-    "acessibilidade",
-    "causas",
-    "cromossomos",
-    "hormonios",
-    "th-masculinizante",
-    "th-feminizante",
-    "crs-masc",
-    "sindrome",
-  ];
-
-  const currentArticle = articles[slug];
+  const articleList = Object.keys(articles);
   const currentIndex = articleList.indexOf(slug);
+  const currentArticle = articles[slug];
 
-  const ArticleComponent = currentArticle.component;
   const previousInfo =
     currentIndex > 0 ? articles[articleList[currentIndex - 1]].info : null;
   const nextInfo =
@@ -44,7 +24,7 @@ function ArticlePage({ slug }: ArticlePageProps) {
 
   return (
     <>
-      <ArticleComponent />
+      {currentArticle.component && <currentArticle.component />}
       <PreviousNext previous={previousInfo} next={nextInfo} />
     </>
   );
@@ -53,22 +33,17 @@ function ArticlePage({ slug }: ArticlePageProps) {
 export default ArticlePage;
 
 export async function getStaticPaths() {
-  const articles = [{ slug: "introducao" }];
-
-  const paths = articles.map((article) => ({
-    params: { slug: article.slug },
-  }));
-
+  const paths = Object.keys(articles).map((slug) => ({ params: { slug } }));
   return { paths, fallback: "blocking" };
 }
 
-type getStaticPageProps = {
+type getStaticProps = {
   params: {
     slug: string;
   };
 };
 
-export async function getStaticProps({ params }: getStaticPageProps) {
+export async function getStaticProps({ params }: getStaticProps) {
   const slug = params.slug;
 
   return {
