@@ -8,6 +8,8 @@
   position: absolute;
   width: 100%;
   background: white;
+  max-height: 80vh;
+  overflow-y: scroll;
   z-index: 10;
 }
 

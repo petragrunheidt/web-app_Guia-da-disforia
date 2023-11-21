@@ -43,7 +43,7 @@ const HoverMenu = ({ items }: HoverMenuProps) => {
                 <ListItemButton>
                   <Link className={styles.link} href={item.href}>
                     <ListItemText primary={
-                      <Typography className={styles.listItem} color={currentUrl== item.href ? '' : 'black'}>
+                      <Typography className={styles.listItem} color={currentUrl== item.href ? 'primary.main' : 'black'}>
                         {item.title}
                       </Typography>}
                     />
