@@ -1,5 +1,6 @@
 import { useRouter } from "next/router";
 import articles from "./articles";
+import ArticleHeader from "@components/molecular/ArticleHeader";
 import PreviousNext from "@components/molecular/previous_next";
 
 type ArticlePageProps = {
@@ -24,6 +25,7 @@ function ArticlePage({ slug }: ArticlePageProps) {
 
   return (
     <>
+      <ArticleHeader title={currentArticle.info.title} />
       {currentArticle.component && <currentArticle.component />}
       <PreviousNext previous={previousInfo} next={nextInfo} />
     </>
