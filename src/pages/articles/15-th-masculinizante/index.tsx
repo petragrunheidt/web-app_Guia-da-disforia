@@ -258,7 +258,7 @@ const ThMasculinizante = () => (
         Entretanto, se a pessoa sofrer de outros problemas de ordem psicológica
         (o que tende a ser mais comum em pessoas LGBT+ por efeito de{" "}
         <Link href="https://biapagliarinibagagli.medium.com/3-verdades-mais-importantes-sobre-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-trans-2ba50dc0bd23">
-          “stress de minoria”
+          “stress de minoria"
         </Link>
         ), ela ainda pode sentir alguns desses sintomas, por mais que seja
         esperada alguma melhora.
@@ -734,7 +734,7 @@ const ThMasculinizante = () => (
         <Link href="https://helloclue.com/pt/artigos/sexo/vamos-falar-de-ejaculacao-feminina-e-da-vulva-por-que-importa-e-qual-a-sensacao">
           ejaculava
         </Link>
-        ” antes, você pode passar a fazer isso.
+        " antes, você pode passar a fazer isso.
       </p>
       <div>
         <div>
@@ -792,7 +792,7 @@ const ThMasculinizante = () => (
             É quase certo que sua libido vai às alturas nos primeiros dois anos,
             especialmente imediatamente após a administração da testosterona. É
             possível que você se encontre sendo mais assertivo durante o sexo e
-            com mais tendência a ser dominante e/ou “ativo”.
+            com mais tendência a ser dominante e/ou “ativo".
           </p>
         </div>
         <div>
@@ -850,8 +850,8 @@ const ThMasculinizante = () => (
         <div>
           <h2>Orgasmo</h2>
           <p>
-            A “forma” do orgasmo pode mudar. Em vez de uma sensação em “cascata”
-            pelo corpo, o orgasmo é uma “explosão” na virilha.
+            A “forma" do orgasmo pode mudar. Em vez de uma sensação em “cascata"
+            pelo corpo, o orgasmo é uma “explosão" na virilha.
           </p>
         </div>
         <div>
@@ -899,7 +899,7 @@ const ThMasculinizante = () => (
               pequeno. Antes eu tinha esses orgasmos que podiam ser muito
               intensos, porém nunca satisfatórios. <br />
               Agora meus orgasmos são menos intensos, mas tipo, eu realmente
-              sinto que eu “terminei”. <em>(traduzido do inglês)</em>
+              sinto que eu “terminei". <em>(traduzido do inglês)</em>
               <br />
               <em>
                 <Link

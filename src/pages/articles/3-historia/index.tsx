@@ -4,12 +4,11 @@ import Link from "next/link";
 const Historia = () => (
   <article>
     <div>
-      <h1>Uma breve história da disforia de gênero</h1>
       <p>
         Em 1948, o famoso sexólogo{" "}
         <Link href="https://pt.wikipedia.org/wiki/Alfred_Kinsey">Alfred Kinsey</Link>{" "}
-        foi contatado por uma mulher cujo “filho”, designado como pertencente ao
-        gênero masculino após o nascimento (ou seja, “AMAB”) insistia
+        foi contatado por uma mulher cujo “filho", designado como pertencente ao
+        gênero masculino após o nascimento (ou seja, “AMAB") insistia
         veementemente que na verdade era uma menina e que algo estava bastante
         errado. A mãe, em vez de tentar reprimir a filha, buscou ajudá-la a se
         tornar quem ela própria sabia ser. Kinsey procurou um endocrinologista
@@ -31,7 +30,7 @@ const Historia = () => (
         <strong>disforia de gênero</strong>. Infelizmente, esse termo só veio a
         ser adotado nos Estados Unidos em 2013. Até então, a Associação
         Americana de Psiquiatria (APA) havia optado pelo termo patologizante
-        “Transtorno de Identidade de Gênero”.
+        “Transtorno de Identidade de Gênero".
       </p>
       <p>
         Se você é trans, pode já ter ouvido o nome de Harry Benjamin, mas em um
@@ -39,12 +38,12 @@ const Historia = () => (
         Associação Internacional Harry Benjamin de Disforia de Gênero, que
         lançou os primeiros padrões de tratamento para pessoas trans. Estes
         padrões de tratamento vieram a ser conhecidos como as “Regras de Harry
-        Benjamin”, e eram extremamente limitantes no que diz respeito a quais
+        Benjamin", e eram extremamente limitantes no que diz respeito a quais
         experiências poderiam ser entendidas e classificadas como disforia de
         gênero. As pacientes eram colocadas em uma escala de seis níveis com
-        base em seu nível de sofrimento e “disfunção sexual”. Pessoas que não
+        base em seu nível de sofrimento e “disfunção sexual". Pessoas que não
         atingissem o Nível 5 ou superior, classificado como “Transexual
-        Verdadeira”, geralmente eram rejeitadas para o tratamento.
+        Verdadeira", geralmente eram rejeitadas para o tratamento.
       </p>
       <div>
         <figure>
@@ -71,10 +70,10 @@ const Historia = () => (
         estivesse vivendo socialmente como seu verdadeiro gênero mesmo sem
         nenhum tratamento médico (hormonização, cirurgias, etc.). Muitas pessoas
         trans tentavam contornar esses critérios rígidos por meio de
-        “treinamentos” comunitários, que ensinavam a performar o que era
+        “treinamentos" comunitários, que ensinavam a performar o que era
         esperado delas pelos médicos para conseguir tratamento. Porém, outras
         acabavam acreditando nesse padrão e sentiam que, se elas não se
-        encaixassem em todos os critérios, não seriam “trans o suficiente” para
+        encaixassem em todos os critérios, não seriam “trans o suficiente" para
         poderem iniciar tratamentos médicos relacionados à transição.
       </p>
       <p>
@@ -177,7 +176,7 @@ const Historia = () => (
         sem que saiba apontar qualquer motivo para esta aversão, evitando a vida
         toda situações em que seria tratada de maneira estereotipicamente
         masculina. Ou ainda, um homem trans pode detestar sua voz ou aparência
-        percebidas por ele e por outros como “femininas” ou “delicadas”,
+        percebidas por ele e por outros como “femininas" ou “delicadas",
         sentindo-se bastante desconfortável com o tratamento infantilizante que
         outras pessoas frequentemente adotam com eles.
       </p>
@@ -196,7 +195,7 @@ const Historia = () => (
         viver por anos como se pertencessem ao seu gênero atribuído no
         nascimento. A disforia de gênero consiste essencialmente de reações
         emocionais que sinalizam que algo na experiência física, social ou
-        emocional de uma pessoa sofre de algum “desencaixe” em todo tipo de
+        emocional de uma pessoa sofre de algum “desencaixe" em todo tipo de
         situação em que o seu gênero fica em evidência. Essa incongruência entre
         o ambiente externo e nosso senso interno de identidade pode ser tão
         profunda e complexa que muitas vezes não há um sinal óbvio indicando

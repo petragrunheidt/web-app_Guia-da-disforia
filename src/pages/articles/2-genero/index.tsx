@@ -6,16 +6,15 @@ const Genero = () => (
     <div>
       <article>
         <div>
-          <h1>O que é Gênero?</h1>
           <p>
-            Muitas pessoas atribuem o termo “gênero” em seu sentido moderno ao
+            Muitas pessoas atribuem o termo “gênero" em seu sentido moderno ao
             psicólogo John Money, que propôs o uso da palavra em 1955 para
-            diferenciar o “sexo mental” do “sexo físico”. No entanto, Money não
+            diferenciar o “sexo mental" do “sexo físico". No entanto, Money não
             foi o primeiro a fazer isso. A antropóloga cultural{" "}
             <Link href="https://pt.wikipedia.org/wiki/Margaret_Mead">
               Margaret Mead
             </Link>{" "}
-            usou o termo em 1949 em seu livro “Male and Female” para distinguir
+            usou o termo em 1949 em seu livro “Male and Female" para distinguir
             comportamentos e papéis de gênero do sexo biológico.&nbsp;
           </p>
           <p>O sexo humano pode ser dividido em três categorias:</p>
@@ -136,7 +135,7 @@ const Genero = () => (
             : nossa apresentação, nossos maneirismos e comportamentos, como nos
             comunicamos, como reagimos, quais são nossas expectativas da vida e
             os papéis que cumprimos ao longo da vida. A autora Susan Stryker
-            descreveu o habitus em seu livro “Transgender History”:
+            descreveu o habitus em seu livro “Transgender History":
           </p>
           <blockquote>
             <p>
@@ -150,14 +149,14 @@ const Genero = () => (
               Frequentemente, essas formas de se mover e estilizar se tornaram
               tão internalizadas que pensamos nelas como naturais, embora – dado
               que são todas coisas que aprendemos por meio da observação e da
-              prática – possam ser melhor entendidas como uma “segunda natureza”
+              prática – possam ser melhor entendidas como uma “segunda natureza"
               culturalmente adquirida.
             </p>
           </blockquote>
           <p>
             Na verdade, todos esses são fatores culturais; coisas que se
             desenvolveram na sociedade ao longo do tempo. Independentemente de
-            serem essencialmente “inventados”, ainda assim eles se conectam com
+            serem essencialmente “inventados", ainda assim eles se conectam com
             a forma como entendemos gênero pois uma pessoa tende a expressar o{" "}
             <em>habitus </em>do gênero de seu eu interno. Por exemplo, é comum
             que mulheres trans (mesmo antes de se perceberem como mulheres)
@@ -243,7 +242,7 @@ const Genero = () => (
             <Link href="https://brunabenevidex.medium.com/travesti-ou-transexual-tem-diferen%C3%A7a-f8166e67e1bc">
               Bruna Benevides
             </Link>{" "}
-            “Travesti ou Transexual, tem diferença?” traz informações mais
+            “Travesti ou Transexual, tem diferença?" traz informações mais
             detalhadas sobre esse tema.
           </p>
         </div>

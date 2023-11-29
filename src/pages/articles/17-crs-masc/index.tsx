@@ -146,7 +146,7 @@ const CrsMasc = () => (
       </p>
       <h3 >Coxa</h3>
       <p>
-        O pênis feito a partir da coxa, em geral é bem “gorducho” devido à maior
+        O pênis feito a partir da coxa, em geral é bem “gorducho" devido à maior
         concentração de gordura na pele local. Podem ser necessitadas revisões
         futuras para tirar o excesso de gordura. A coxa tem maior versatilidade
         para aqueles que querem um falo maior.
@@ -178,7 +178,7 @@ const CrsMasc = () => (
       <h1 >Glansplastia</h1>
       <p>
         A construção de uma glande peniana no topo do falo, deixando a aparência
-        inicial de um “tubo” mais parecida com a aparência de um pênis
+        inicial de um “tubo" mais parecida com a aparência de um pênis
         circuncisado.&nbsp;&nbsp;
       </p>
       <h1 >Uretroplastia</h1>

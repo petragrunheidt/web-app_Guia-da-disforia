@@ -89,7 +89,7 @@ const DisforiaSocial = () => (
               nervosismo. Você realmente não sabe como e no geral nem mesmo quer
               manter uma conversa com eles. Você sente uma expectativa vinda
               deles que você sente que não pode cumprir. Você discretamente os
-              julga por serem muito “homens”, “padrão”.
+              julga por serem muito “homens", “padrão".
               <br />
               Ser vulnerável perto de homens estranhos é assustador. Você sente
               ansiedade quando usa o banheiro masculino público. Trocar de roupa
@@ -110,7 +110,7 @@ const DisforiaSocial = () => (
               pessoa. Você congela.
               <br />
               Você sente receio até mesmo em expressar elogios físicos inocentes
-              aos outros, como “Tá bonita!” Você se sente hiperconsciente de que
+              aos outros, como “Tá bonita!" Você se sente hiperconsciente de que
               qualquer coisa possa soar como atenção sexual indesejada vinda de
               você. Você sente que sua atenção é unicamente e universalmente
               indesejável.
@@ -124,7 +124,7 @@ const DisforiaSocial = () => (
               </span>
               expressa desaprovação, isso te afeta profundamente. Você luta para
               obter a aprovação delas de volta. Você se preocupa que possa estar
-              parecendo um desses caras que se fazem de “bonzinhos” para
+              parecendo um desses caras que se fazem de “bonzinhos" para
               conquistar mulheres, os quais você despreza. Você simplesmente
               valoriza mais as opiniões das suas amigas
               <span>
@@ -191,7 +191,7 @@ const DisforiaSocial = () => (
                 {" "}
                 <span>AMAB</span>{" "}
               </span>
-              sendo chamada de “menininha”, com a intenção de insultá-la, mas
+              sendo chamada de “menininha", com a intenção de insultá-la, mas
               fazendo com que ela fique vermelha de vergonha em vez de ficar com
               raiva.
             </li>
@@ -203,7 +203,7 @@ const DisforiaSocial = () => (
                   AFAB
                 </span>{" "}
               </span>
-              sendo tratado por “senhor” ou “cara”, e se sentindo bem por isso.
+              sendo tratado por “senhor" ou “cara", e se sentindo bem por isso.
             </li>
           </ul>
           <p></p>
@@ -258,7 +258,7 @@ const DisforiaSocial = () => (
           <blockquote>
             <p>
               A ironia em dizer que “mulheres trans imitam e reforçam
-              estereótipos de gênero” é que a única vez que eu de fato imitei
+              estereótipos de gênero" é que a única vez que eu de fato imitei
               estereótipos foi quando fui forçada a interagir com homens. E fiz
               isso por um senso de sobrevivência e um desejo de tentar me
               encaixar. <br />
@@ -309,8 +309,8 @@ const DisforiaSocial = () => (
         existem e, por mais que tentemos enfrentá-los e apontar o sexismo que
         existe, sempre haverá alguma ideia prévia sobre as pessoas baseadas em
         como elas são percebidas em relação ao seu gênero. Alguns exemplos disso
-        estão nos papéis matrimoniais e parentais; “Marido”, “Esposa”, “Mãe”,
-        “Pai”, esses termos vêm com muita bagagem presa a eles, e o papel
+        estão nos papéis matrimoniais e parentais; “Marido", “Esposa", “Mãe",
+        “Pai", esses termos vêm com muita bagagem presa a eles, e o papel
         errado, ou mesmo qualquer papel, pode parecer uma camisa de força. Você
         recebe um manual inteiro repleto de comportamentos e ações, gostos e
         desgostos, e é esperado que você simplesmente se adeque, e se você não
@@ -323,12 +323,12 @@ const DisforiaSocial = () => (
           {" "}
           <span>AFAB</span>{" "}
         </span>
-        que dá à luz pode sofrer disforia severa ao ser rotulado como “mãe”. A
+        que dá à luz pode sofrer disforia severa ao ser rotulado como “mãe". A
         grande maioria dos recursos e conteúdos relacionados à gestação
         pressupõe o feminino como norma. Sendo assim, o próprio processo de
         engravidar, carregar e dar à luz uma criança é excepcionalmente marcado
         por expectativas de gênero femininas. Se você está grávido,
-        provavelmente será rotulado como “mãe”, independentemente de como você
+        provavelmente será rotulado como “mãe", independentemente de como você
         realmente se sente em relação a este papel, e com esse rótulo vêm juntas
         várias suposições sobre cuidados, amamentação e criação dos filhos. Por
         exemplo, um homem trans que dá à luz pode se sentir bastante disfórico
@@ -338,7 +338,7 @@ const DisforiaSocial = () => (
       <p>
         Pessoas trans femininas também se deparam com essa sensação. Se você
         está segurando um bebê ou cuidando de uma criança, imediatamente te
-        rotulam como mãe ou apontam seu “instinto maternal”. Isso pode ser
+        rotulam como mãe ou apontam seu “instinto maternal". Isso pode ser
         gratificante, porque é um sinal de que você foi vista como mulher, mas
         também pode se tornar extremamente <em>desconfortável </em>quando
         mulheres cis começam a falar sobre o que elas acham que são experiências
@@ -385,7 +385,7 @@ const DisforiaSocial = () => (
             AMAB
           </span>{" "}
         </span>
-        que não concorda com o “senso de humor” do grupo, muitas vezes repleto
+        que não concorda com o “senso de humor" do grupo, muitas vezes repleto
         de piadas machistas.
       </p>
       <p>
@@ -403,7 +403,7 @@ const DisforiaSocial = () => (
         Há sempre um risco real de que amigos e membros da própria família
         tenham reações transfóbicas. Isso não leva somente a consequências
         práticas como a perda da relação com essas pessoas: sofrer esse tipo de
-        reação pode empurrar a pessoa de volta para o “armário”, trazendo
+        reação pode empurrar a pessoa de volta para o “armário", trazendo
         dúvidas e fortes sentimentos negativos sobre ela mesma. Uma pessoa trans
         adulta em um casamento pode sentir um enorme remorso pelo possível
         impacto da transição em seu cônjuge ou filhos.
@@ -490,13 +490,13 @@ const DisforiaSocial = () => (
               </span>{" "}
             </span>
             acabam terminando namoros justamente por não serem capazes de se
-            conformar às expectativas colocadas sobre “o homem da relação” em
+            conformar às expectativas colocadas sobre “o homem da relação" em
             relacionamentos heteroafetivos.
           </p>
           <p>
             Essa dinâmica fica ainda mais complexa para pessoas não binárias,
             algumas das quais podem, na melhor das hipóteses, descrever seu
-            estilo de namoro como “queer”. Alguns têm dificuldade em definir o
+            estilo de namoro como “queer". Alguns têm dificuldade em definir o
             papel que querem desempenhar em um relacionamento e como querem se
             comportar. Outros assumem um papel específico que normalmente é
             visto como um papel binário de gênero. Algumas pessoas não binárias
@@ -570,8 +570,8 @@ const DisforiaSocial = () => (
               Muitos sistemas de saúde trans operam em uma lógica bastante
               torta, em que um médico cis lhe pergunta um monte de coisas como
               ‘com que brinquedos você brincava quando era criança?’ para ver se
-              você combina bem com o que uma mulher “deveria ser”. E as mulheres
-              “devem gostar” de homens
+              você combina bem com o que uma mulher “deveria ser". E as mulheres
+              “devem gostar" de homens
               <br />
               Então, há muita pressão interna e externa enfrentada por lésbicas
               trans para repudiar sua própria lesbianidade e sentir atração por

@@ -266,7 +266,7 @@ const ThFeminizante = () => (
         Entretanto, se a pessoa sofrer de outros problemas de ordem psicológica
         (o que tende a ser mais comum em pessoas LGBT+ por efeito de{" "}
         <Link href="https://biapagliarinibagagli.medium.com/3-verdades-mais-importantes-sobre-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-trans-2ba50dc0bd23">
-          “stress de minoria”
+          “stress de minoria"
         </Link>
         ), ela ainda pode sentir alguns desses sintomas, por mais que seja
         esperada alguma melhora.
@@ -294,7 +294,7 @@ const ThFeminizante = () => (
         entrar em contato com emoções e sentimentos. Além disso, o padrão
         hormonal estrogênico em sí está associado a uma maior sensibilidade
         emocional. Os altos são mais altos e os baixos são mais baixos. Aqueles
-        que podem ter sido incapazes de chorar e que se consideravam “estóicos”
+        que podem ter sido incapazes de chorar e que se consideravam “estóicos"
         antes da transição, recuperam o choro, tanto de tristeza quanto de
         alegria.
       </p>
@@ -376,7 +376,7 @@ const ThFeminizante = () => (
         <li>
           <strong>Mudanças na percepção do paladar</strong>. Certos alimentos se
           tornam mais ou menos saborosos; O coentro, por exemplo, pode ficar
-          mais ou menos “ensaboado”. Maior tolerância à capsaicina (pimentas
+          mais ou menos “ensaboado". Maior tolerância à capsaicina (pimentas
           picantes). O chocolate e o vinho ficam mais saborosos.
         </li>
       </ul>
@@ -433,7 +433,7 @@ const ThFeminizante = () => (
       <p>
         A pele ao longo da região genital começa a exalar um cheiro similar ao
         canal vaginal, e a área pode ficar mais úmida, principalmente durante a
-        excitação (sim, mulheres trans também ficam “molhadas”). A combinação
+        excitação (sim, mulheres trans também ficam “molhadas"). A combinação
         desses fatores significa que o odor (e sabor) do pênis muda se
         assemelhando mais ao de uma vulva.
       </p>
@@ -628,7 +628,7 @@ const ThFeminizante = () => (
         <li>Acne</li>
         <li>Fadiga</li>
         <li>
-          Mudanças de apetite, vontades espontâneas (“desejos” como desejo por
+          Mudanças de apetite, vontades espontâneas (“desejos" como desejo por
           chocolate ou carboidratos)
         </li>
         <li>Mudanças espontâneas na libido</li>

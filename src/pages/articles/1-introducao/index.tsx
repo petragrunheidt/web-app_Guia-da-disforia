@@ -2,7 +2,6 @@ import Link from "next/link";
 
 const Introducao = () => (
   <article>
-    <h1>Introdução</h1>
     <blockquote>
       <p>
         Trans-gê-ne-ro <em>adj.</em>
@@ -34,12 +33,12 @@ const Introducao = () => (
     </p>
     <p>
       Apesar disso, a compreensão moderna da experiência transgênero existe há
-      apenas aproximadamente 130 anos. Até mesmo a palavra “transgênero” remonta
+      apenas aproximadamente 130 anos. Até mesmo a palavra “transgênero" remonta
       a 1965, quando John Oliven a propôs como uma alternativa mais precisa ao
-      termo “transexual” de David Cauldwell (cunhado em 1949), que substituiu o
-      termo “travestido” de Magnus Hirschfield (1910) (nota: optamos por
-      traduzir o termo “transvestite” como “travestido” para diferenciá-lo do
-      termo “travesti” que tem um significado cultural/identitário próprio e do
+      termo “transexual" de David Cauldwell (cunhado em 1949), que substituiu o
+      termo “travestido" de Magnus Hirschfield (1910) (nota: optamos por
+      traduzir o termo “transvestite" como “travestido" para diferenciá-lo do
+      termo “travesti" que tem um significado cultural/identitário próprio e do
       qual trataremos oportunamente).
     </p>
     <p>
@@ -58,15 +57,15 @@ const Introducao = () => (
       a sentir nada até o início da puberdade, e ainda outras não percebem que
       algo está errado até a idade adulta. Muitas pessoas simplesmente nunca são
       expostas à ideia de que seu gênero pode ser diferente daquele atribuído no
-      nascimento e, portanto, simplesmente “aceitam seu destino”.&nbsp;
+      nascimento e, portanto, simplesmente “aceitam seu destino".&nbsp;
     </p>
     <p>
       É comum também que pessoas infelizes com o gênero que lhes foi atribuído
       ao nascer acreditem que sua experiência não é a mesma que aquela
       vivenciada por pessoas trans. Alguns podem sentir que o desejo de ser
       transgênero e transicionar é algum tipo de desrespeito com pessoas trans
-      “reais” que sabiam desde sempre que eram na verdade meninos ou meninas
-      “nascidos no corpo errado”. Essas narrativas da experiência transgênero
+      “reais" que sabiam desde sempre que eram na verdade meninos ou meninas
+      “nascidos no corpo errado". Essas narrativas da experiência transgênero
       disseminadas na cultura popular criam uma impressão bastante falsa do que
       significa ser uma pessoa trans.
     </p>

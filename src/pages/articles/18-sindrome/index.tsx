@@ -13,7 +13,7 @@ const Sindrome = () => (
           é um nome popularmente dado para padrão psicológico no qual um
           indivíduo apresenta dúvidas constantes sobre suas habilidades, seu
           caráter, ou qualquer outro aspecto de si, e sente um medo persistente
-          de ser exposto como uma “fraude”.
+          de ser exposto como uma “fraude".
         </em>
       </p>
       <p>
@@ -23,12 +23,12 @@ const Sindrome = () => (
         vivência, chega a ser engraçado ler inúmeros posts em fóruns trans de
         pessoas descrevendo em detalhes como gostariam de poder viver como outro
         gênero, e que terminam com a pergunta “mas não sei, será que sou trans
-        mesmo?”.&nbsp;
+        mesmo?".&nbsp;
       </p>
       <p>
         Vários discursos que circulam a respeito de pessoas trans são
         responsáveis pela dificuldade de nos reconhecermos enquanto tal. A
-        narrativa do “nascer no corpo errado”, por exemplo, levou a muita
+        narrativa do “nascer no corpo errado", por exemplo, levou a muita
         desinformação sobre o que é ser trans, afinal, nem todas as pessoas
         trans apresentam disforia física ou sentem isso de forma tão intensa –
         às vezes nem sabemos identificar esse sentimento. Muitas pessoas trans
@@ -43,7 +43,7 @@ const Sindrome = () => (
         Fora concepções equivocadas, mas que ao menos não invalidam a existência
         de pessoas trans, também somos cercados dos mais variados discursos
         transfóbicos que sequer reconhecem a transgeneridade como algo legítimo,
-        ou que defendem que pessoas trans estariam tentando “enganar” as pessoas
+        ou que defendem que pessoas trans estariam tentando “enganar" as pessoas
         para ter alguma vantagem ou que são pessoas fora de sua sanidade que
         estão erradas sobre tudo que acreditam.&nbsp;
       </p>
@@ -97,7 +97,7 @@ const Sindrome = () => (
         especialmente pessoas não binárias que não querem uma transição
         medicamentosa, tem a ver com opressões sistêmicas que mulheres no geral
         sofrem. A ideia de que “ah, você simplesmente não quer ser mulher por
-        causa do machismo que mulheres sofrem” é ouvida com muita frequência e
+        causa do machismo que mulheres sofrem" é ouvida com muita frequência e
         pode influenciar profundamente essas pessoas a ponto de duvidarem da sua
         própria percepção. Essa lógica não faz muito sentido, porque{" "}
         <strong>
@@ -122,8 +122,8 @@ const Sindrome = () => (
         A mensagem do feminismo radical de que deveríamos ‘abandonar os papéis
         de gênero’ ou de ‘abolir o gênero’ também pode dificultar a análise
         desses sentimentos. “Será que sou realmente uma pessoa não-binária ou
-        sou apenas uma feminista?” “Eu sou mesmo homem, ou sou apenas uma
-        lésbica muito masculina?”. Assim como em todo o processo de exploração
+        sou apenas uma feminista?" “Eu sou mesmo homem, ou sou apenas uma
+        lésbica muito masculina?". Assim como em todo o processo de exploração
         sobre seu gênero, é ideal buscar pessoas com experiências que você
         considera próximas da sua – neste caso, tanto lésbicas cis quanto homens
         trans – e avaliar como as experiências dessas pessoas ressoam com as
@@ -154,7 +154,7 @@ const Sindrome = () => (
             AMAB
           </span>{" "}
         </span>
-        crescem cercadas por mensagens do que é “ser um homem de verdade” e
+        crescem cercadas por mensagens do que é “ser um homem de verdade" e
         várias dessas representações são bastante negativas e machistas. Existem
         tão poucos exemplos de masculinidade positiva na mídia popular, e às
         vezes até no próprio convívio pessoal, que pode ser difícil para pessoas
@@ -207,20 +207,20 @@ const Sindrome = () => (
         <Link href="https://disforiadegenero.com.br/historia-da-disforia">
           pré-WPATH
         </Link>{" "}
-        sobre o que é ser “trans de verdade”, exige que uma pessoa sinta
+        sobre o que é ser “trans de verdade", exige que uma pessoa sinta
         disforia física intensa e necessariamente deseje uma transição médica,
         invalidando completamente identidades não binárias. Em sua essência, o
         transmedicalismo é um conceito excludente, que eleva pessoas trans
         binárias acima de outras identidades de gênero, e que enxerga pessoas
         trans que não desejam se enquadrar perfeitamente no padrão binário como
-        um constrangimento que prejudicaria a imagem das “verdadeiras” pessoas
+        um constrangimento que prejudicaria a imagem das “verdadeiras" pessoas
         trans.&nbsp;
       </p>
       <p>
         Sem perceber, a postura transmedicalista é destrutiva até mesmo a
         pessoas transgênero que se consideram binárias. O transmedicalismo
         abraça pressupostos transfóbicos que pretendem policiar a partir de qual
-        ponto em sua transição uma pessoa é “realmente trans”: após a cirurgia
+        ponto em sua transição uma pessoa é “realmente trans": após a cirurgia
         de confirmação genital? Após o início da terapia hormonal? Esta
         ideologia ignora não apenas que pessoas trans podem não{" "}
         <em>desejar </em>se submeter a tratamentos médicos, como também que tais

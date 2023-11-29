@@ -1,25 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
 html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+  line-height: 1.8;
+}
+
+body, h1, h2, h3, p, figure, blockquote, dl, dd, ul, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+article {
+  margin: 2.5rem 5rem;
 }
 
 a {
   color: #ff5c5c;
 }
 
-h1 {
-  font-size: 2rem;
+h1, h3 {
   font-weight: 800;
   font-family: Capriola;
   color: #ff5c5c;
+  margin: 0
+}
+
+h1 {
+  font-size: 2rem;
   padding:  2.5rem 0
 }
 
 h3 {
   font-size: 1.5rem;
-  font-weight: 800;
-  font-family: Capriola;
-  color: #ff5c5c;
   padding:  1rem 0
+}
+
+p {
+  color: black;
+  text-indent: 32px;
 }

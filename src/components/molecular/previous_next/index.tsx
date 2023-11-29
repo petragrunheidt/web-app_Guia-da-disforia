@@ -1,5 +1,4 @@
 import React from 'react'
-import { Button } from '@mui/material'
 import Link from 'next/link';
 import styles from './index.module.css'
 
@@ -12,17 +11,13 @@ const PreviousNext = ({ previous, next }: PreviousNextProps) => {
   return (
     <div className={styles.container}>
       {previous &&
-      <Button variant="outlined">
         <Link className={styles.link} href={`/${previous.slug}`}>
           {previous.title}
-        </Link>
-      </Button>}
+        </Link>}
       {next &&
-        <Button variant="outlined" sx={{ marginLeft: !previous ? 'auto' : '' }}>
-        <Link className={styles.link} href={`/${next.slug}`}>
+        <Link className={styles.link} style={{ marginLeft: !previous ? 'auto' : '' }} href={`/${next.slug}`}>
           {next.title}
-        </Link>
-      </Button>}
+        </Link>}
     </div>
   )
 }

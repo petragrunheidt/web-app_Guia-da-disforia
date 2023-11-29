@@ -3,7 +3,7 @@ import Link from "next/link";
 const DisforiaFisica = () => (
   <article>
     <p>
-      Todo mundo já ouviu a história da “pessoa nascida no corpo errado”.
+      Todo mundo já ouviu a história da “pessoa nascida no corpo errado".
       Disforia de gênero física é o desconforto sobre a forma do corpo devido às
       características sexuais que alguém apresenta. Então, de quais
       características corporais estamos falando aqui?
@@ -146,7 +146,7 @@ const DisforiaFisica = () => (
     <p>
       Isso pode ser sentido como horror ou repulsa ao olhar ou tocar os órgãos
       genitais externos, desencadeando explosões emocionais ou um forte desejo
-      de remover o órgão “invasor”. Pessoas trans AFAB podem sentir que há algo
+      de remover o órgão “invasor". Pessoas trans AFAB podem sentir que há algo
       errado durante a menstruação ou experimentar um senso de desconexão com
       seu ciclo hormonal. A disforia física pode se manifestar ainda como uma
       compulsão por se livrar de certas características corporais, como barbear
@@ -162,7 +162,7 @@ const DisforiaFisica = () => (
     </p>
     <p>
       Características físicas indesejáveis podem levar uma pessoa a sentir
-      “inveja” de pessoas que foram forçadas a removê-las devido a doenças, como
+      “inveja" de pessoas que foram forçadas a removê-las devido a doenças, como
       câncer de testículo ou de mama. AMABs com disforia genital grave às vezes
       se imaginam tendo algum tipo de acidente estranho que causaria a perda de
       seu pênis.

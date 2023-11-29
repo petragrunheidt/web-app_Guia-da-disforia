@@ -6,9 +6,9 @@ const Causas = () => (
       <h1 id="causa">Qual é a causa da incongruência de gênero?</h1>
       <p>
         As ciências biológicas e a psicologia comprovaram que a transgeneridade{" "}
-        <strong>não é </strong>causada por influências sociais. Ninguém “vira”
+        <strong>não é </strong>causada por influências sociais. Ninguém “vira"
         trans porque foi convencido disso, ou porque está na moda, ou porque
-        teve um “trauma” na infância com determinado gênero. Principalmente por
+        teve um “trauma" na infância com determinado gênero. Principalmente por
         conta de dados clínicos sobre pessoas com condições intersexo e por
         resultados de experimentos com animais, sabemos que a exposição do
         cérebro fetal a diferentes graus de testosterona durante a segunda parte
@@ -27,7 +27,7 @@ const Causas = () => (
         <strong>base biológica da identidade de gênero </strong>em seres
         humanos, recorrendo sobretudo a estudos em endocrinologia, genética e
         neurociência, além de estudos comparativos em modelos animais. É
-        importante delimitar o que queremos dizer por “gênero” neste artigo em
+        importante delimitar o que queremos dizer por “gênero" neste artigo em
         particular. A nível neural, estamos falando sobre diferenças em algumas
         áreas-chave do cérebro, induzidas pela presença ou não de testosterona
         durante a gestação. A nível comportamental, essas diferenças se traduzem
@@ -108,9 +108,9 @@ const Causas = () => (
       </p>
       <p>
         Em suma, a sensação de euforia ao expressar seu gênero real não é algo
-        que pessoas trans “escolhem” ou “aprendem” a sentir imitando sua
+        que pessoas trans “escolhem" ou “aprendem" a sentir imitando sua
         cultura, mas sim um fenômeno que deriva da variação biológica humana
-        normal. Sentir uma afinidade profunda e “inexplicável” com pessoas de
+        normal. Sentir uma afinidade profunda e “inexplicável" com pessoas de
         seu gênero real são consequências de se ter um sistema nervoso mais
         similar ao destas pessoas, em alguns aspectos importantes. Isso não
         significa dizer que nossos cérebros são azul ou rosa: a grande maioria
@@ -194,10 +194,10 @@ const Causas = () => (
         intersexo. Em alguns casos, ocorre um desenvolvimento atípico da
         genitália (como uma masculinização parcial que a torna, em termos
         médicos,{" "}
-        <Link href="https://pt.wikipedia.org/wiki/Intersexo">“ambígua”</Link>),
+        <Link href="https://pt.wikipedia.org/wiki/Intersexo">“ambígua"</Link>),
         apesar da presença de ovários ou testículos típicos e funcionais. Em
         outros casos, a criança possui um pênis ou vagina típicos, mas com
-        gônadas “incompatíveis” (pênis e ovários, vagina e testículos ou outras
+        gônadas “incompatíveis" (pênis e ovários, vagina e testículos ou outras
         combinações).&nbsp;
       </p>
       <div>
@@ -311,10 +311,10 @@ const Causas = () => (
         estabelecido experimentalmente que é possível induzir comportamentos
         típicos de animais machos em fetos de ratos e de macacos Rhesus XX
         expondo-os a níveis de testosterona típicos de fetos XY. Isso altera
-        comportamentos sexuais, aumentando a tendência do animal a “montar” em
+        comportamentos sexuais, aumentando a tendência do animal a “montar" em
         fêmeas para iniciar a cópula, e também comportamentos sociais, como
-        maior preferência por brincadeiras “agressivas” e menor frequência de
-        vocalizações. Esta “masculinização” induzida artificialmente só ocorre
+        maior preferência por brincadeiras “agressivas" e menor frequência de
+        vocalizações. Esta “masculinização" induzida artificialmente só ocorre
         se a testosterona é introduzida durante a formação do sistema nervoso do
         feto – caso o hormônio seja injetado apenas antes deste ponto, ocorre
         virilização da genitália, mas sem alteração no comportamento. Assim como
@@ -337,7 +337,7 @@ const Causas = () => (
         </Link>
         , por exemplo. Entre esses dois extremos, uma infinidade de casos pode
         ocorrer, desde os diversos graus de insensibilidade a andrógenos, que
-        impede a “masculinização” do sistema nervoso tipicamente esperada em
+        impede a “masculinização" do sistema nervoso tipicamente esperada em
         pessoas XY (no caso de pessoas transfemininas), até um grau de exposição
         a andrógenos superior ao típico cisfeminino no desenvolvimento
         embrionário de pessoas XX (no caso de pessoas transmasculinas).&nbsp;
@@ -382,7 +382,7 @@ const Causas = () => (
         que são estatisticamente mais prováveis de serem mais longos entre as
         mulheres trans (longos no sentido de terem mais fragmentos repetidos).
         Individualmente, esses genes podem não ter um impacto forte o suficiente
-        para causar um “mau funcionamento” da masculinização no restante do
+        para causar um “mau funcionamento" da masculinização no restante do
         corpo, mas coletivamente eles poderiam reduzir a capacidade do cérebro
         fetal de ser afetado pela testosterona. Junto dos{" "}
         <Link href="https://www.sciencedirect.com/science/article/pii/B9780128159682000062#:~:text=Heritability%20estimates%20of%20gender%2Drelated,25%27%20to%2077%25.&amp;text=Regarding%20childhood%20gender%20dysphoria%2C%20observed,dysphoria%20explained%20by%20genetic%20factors.">
@@ -443,7 +443,7 @@ const Causas = () => (
       <p>
         É comum que haja um receio de que ao relacionar fatores biológicos à
         identidade de gênero, poderia-se estar abrindo margem para a
-        patologização de identidades “desviantes”. Não é nenhuma novidade que as
+        patologização de identidades “desviantes". Não é nenhuma novidade que as
         categorias de saúde mental na psiquiatria contribuíram historicamente
         para a patologização de características associadas a grupos
         marginalizados.{" "}
@@ -468,11 +468,11 @@ const Causas = () => (
       <p>
         Apesar disso, é preciso ressaltar que a pesquisa científica
         contemporânea em ciências biológicas acerca de sexo e gênero não está a
-        busca de uma “cura” para a transgeneridade. A validade da existência de
+        busca de uma “cura" para a transgeneridade. A validade da existência de
         pessoas trans não está em jogo quando discutimos possíveis causas
         biológicas da identidade de gênero. Ao invés disso, tais pesquisas nos
         mostram que a transgeneridade é apenas parte da variação natural humana,
-        como a cor dos olhos ou a altura. Ninguém se “torna” trans, se nasce
+        como a cor dos olhos ou a altura. Ninguém se “torna" trans, se nasce
         trans, e não há nada que possa ser feito para suprimir nossa existência.
       </p>
       <p>
@@ -500,7 +500,7 @@ const Causas = () => (
         </Link>
         , a crença de que o gênero é puramente uma construção social, junto à
         ideia de que qualquer variação de uma divisão binária estrita entre os
-        gêneros masculino e feminino deveria ser “corrigida”, serviu de
+        gêneros masculino e feminino deveria ser “corrigida", serviu de
         justificativa para que médicos simplesmente decidissem, de forma
         violenta e arbitrária, o gênero de crianças cuja genitália era
         ‘ambígua’. Por se tratar de uma cirurgia mais simples, escolhia-se

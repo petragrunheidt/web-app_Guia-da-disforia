@@ -2,13 +2,13 @@ const Euforia = () => (
   <article>
     <p>
       Antes de falar sobre desconforto, precisamos falar sobre alívio. O que se
-      costuma chamar de “euforia de gênero” é em si um sinal de disforia de
+      costuma chamar de “euforia de gênero" é em si um sinal de disforia de
       gênero. Estamos falando dos sentimentos positivos que um homem trans sente
       ao enxergar seu peitoral reto no espelho após vestir um binder ou ao ser
-      chamado de “moço” na rua, ou a alegria em um primeiro momento inexplicável
+      chamado de “moço" na rua, ou a alegria em um primeiro momento inexplicável
       que uma pessoa trans feminina sente ao vestir uma saia ou pintar as unhas
       pela primeira vez. Você pode estar se perguntando: “como pode um
-      sentimento alegre evidenciar um sentimento de tristeza?” A resposta para
+      sentimento alegre evidenciar um sentimento de tristeza?" A resposta para
       isso é simples.
     </p>
     <p>
@@ -59,7 +59,7 @@ const Euforia = () => (
       simplesmente ignorados. Ela pode concluir que sua vida seria melhor se
       pudesse viver o tempo todo sendo de outro gênero. Aos poucos ela pode
       sentir que o que na verdade é uma fantasia descolada da realidade é
-      expressar-se como seu “velho eu.”
+      expressar-se como seu “velho eu."
     </p>
     <p>
       Esta é a razão mais fundamental pela qual dizemos que a disforia não é o

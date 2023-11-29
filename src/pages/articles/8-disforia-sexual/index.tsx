@@ -89,7 +89,7 @@ const DisforiaSexual = () => (
       <h3>O olhar masculino coercitivo</h3>
       <p>
         O trecho a seguir é uma tradução direta de um relato da autora da “
-        <Link href="https://genderdysphoria.fyi/">Gender Dysphoria Bible</Link>” (
+        <Link href="https://genderdysphoria.fyi/">Gender Dysphoria Bible</Link>" (
         <Link href="https://curvyandtrans.com/">Jocelyn Badgley</Link>), sobre a
         experiência de disforia sexual como uma mulher trans lésbica:
       </p>
@@ -105,7 +105,7 @@ const DisforiaSexual = () => (
       </p>
       <p>
         Existe um ditado que é muito conhecido nos círculos sáficos: “Eu quero
-        ser como ela, ou quero ficar com ela?”
+        ser como ela, ou quero ficar com ela?"
       </p>
       <p>
         Pode ser difícil dizer a diferença entre atração sexual e inveja,
@@ -114,7 +114,7 @@ const DisforiaSexual = () => (
         heterossexualidade; esse é simplesmente o padrão cultural, a ponto de
         até crianças pré-púberes serem bombardeadas com mensagens sobre a
         atração masculina por mulheres. Consequentemente, o interesse por
-        aspectos da vida do “sexo oposto” é quase sempre imediatamente percebido
+        aspectos da vida do “sexo oposto" é quase sempre imediatamente percebido
         como atração sexual.
       </p>
       <p>

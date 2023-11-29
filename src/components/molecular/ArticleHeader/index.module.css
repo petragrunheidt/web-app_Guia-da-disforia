@@ -1,0 +1,22 @@
+.wrapper {
+  position: relative;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover-image {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url("./cover-background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 50%;
+}
+
+.title {
+  position: absolute;
+}

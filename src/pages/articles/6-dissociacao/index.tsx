@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SideBySideContainer from "@components/atomic/SideBySideContainer";
 
 const Dissociacao = () => (
   <article>
@@ -11,7 +12,7 @@ const Dissociacao = () => (
         sentir distante e não se importar muito com o que acontece ao seu corpo,
         não se preocupando com mudanças de peso ou com mudanças na sua forma
         física, porque você não sente apego pelo que você sente que é uma
-        “prisão de carne” que você carrega ao longo da vida.&nbsp;
+        “prisão de carne" que você carrega ao longo da vida.&nbsp;
       </p>
       <p>
         Zinnia Jones fornece{" "}
@@ -24,16 +25,16 @@ const Dissociacao = () => (
         <li>
           Uma sensação de distanciamento ou estranhamento de seus próprios
           pensamentos, sentimentos ou corpo: “Eu sei que tenho sentimentos, mas
-          não os sinto”
+          não os sinto"
         </li>
         <li>
           Sentir-se dividido em duas partes: uma que se move pelo mundo e a
           outra observando em silêncio: “Existe esse corpo que anda e que outra
-          pessoa apenas observa”
+          pessoa apenas observa"
         </li>
         <li>
-          Sentindo-se como se você tivesse um eu “irreal” ou ausente,
-          acreditando que você “não tem um eu”
+          Sentindo-se como se você tivesse um eu “irreal" ou ausente,
+          acreditando que você “não tem um eu"
         </li>
         <li>
           Torpor emocional ou físico que te faz sentir o mundo como distante,
@@ -53,7 +54,7 @@ const Dissociacao = () => (
         </li>
         <li>
           Falta de senso de agência – sentir-se vazio, robótico, morto ou como
-          um “zumbi”
+          um “zumbi"
         </li>
         <li>Incapacidade de imaginar coisas</li>
         <li>
@@ -76,7 +77,7 @@ const Dissociacao = () => (
         mesmo temendo a morte, de tão pouco apego à sua vida.
       </p>
       <p>
-        É comum que pessoas trans não sintam uma “aversão clássica” às mudanças
+        É comum que pessoas trans não sintam uma “aversão clássica" às mudanças
         físicas ocasionadas pela puberdade, como uma mulher trans sentir
         claramente que odeia seus pelos corporais, pelo contrário, muitas vezes
         nos sentimos tão desapegadas e distantes de nós mesmas que nem notamos
@@ -84,10 +85,34 @@ const Dissociacao = () => (
       </p>
       <div>
         <div>
-          <p>
-            <strong>Desrealização</strong> é um desapego do mundo ao seu redor,
-            uma sensação mental de que tudo o que você percebe é falso.
-          </p>
+          <div>
+            <p>
+              <strong>Desrealização</strong> é um desapego do mundo ao seu
+              redor, uma sensação mental de que tudo o que você percebe é falso.
+            </p>
+          </div>
+          <SideBySideContainer>
+            Você tem uma sensação latente de que “não é” como a maioria das
+            pessoas. Você pode sentir que seus amigos te entendem, mas você
+            traça uma linha instintiva e inconsciente entre você e as pessoas
+            “normais”. Quando você interage com uma pessoa “normal”, não tem
+            certeza do que dizer ou como agir. Você acha difícil priorizar seus
+            próprios sentimentos. Você está ciente das emoções que * deveria *
+            estar sentindo, mas elas são distantes e parecem falsas. Quando
+            outra pessoa está chateada, parece muito mais real e urgente. Você
+            acredita que isso ocorre apenas porque você tem uma natureza
+            protetora e estoica. Muitas vezes você se sente sem direção na vida.
+            Quando te perguntam sobre objetivos de vida no ensino médio, você
+            realmente não conseguia se importar com sua resposta ou sequer
+            conceber uma resposta. Até as carreiras centradas nos seus
+            interesses pareciam intoleráveis. Você luta para imaginar um futuro
+            para si mesmo, onde seja feliz ou realizada. Você só dá passos para
+            melhorar sua vida quando forças externas te * forçam *. Você prefere
+            se retirar, se reduzir e se concentrar em hobbies escapistas. Você
+            simplesmente não está motivada para obter coisas boas para si mesma.
+            (Você diz a si mesma que esta é uma aceitação zen, uma libertação de
+            desejos.)
+          </SideBySideContainer>
           <ul>
             <li>
               Se o seu açúcar no sangue estiver desequilibrado ou se você tiver
@@ -202,14 +227,16 @@ const Dissociacao = () => (
           </p>
           <p>
             Essa é uma das grandes dificuldades enfrentadas pela comunidade{" "}
-            <Link href="https://pt.wikipedia.org/wiki/Intersexo">intersexo</Link>.
-            Aproximadamente um em cada 60 nascimentos resulta em algum tipo de
+            <Link href="https://pt.wikipedia.org/wiki/Intersexo">
+              intersexo
+            </Link>
+            . Aproximadamente um em cada 60 nascimentos resulta em algum tipo de
             condição intersexo (embora nem todos estejam relacionados à
-            genitália). Frequentemente, os procedimentos “corretivos” usados
-            em crianças intersexuais resultam em perda de função ou de
-            sensação na genitália. Com muita frequência, médicos optam pela
-            designação feminina forçada porque é mais fácil construir uma vulva
-            do que um pênis.
+            genitália). Frequentemente, os procedimentos “corretivos" usados em
+            crianças intersexuais resultam em perda de função ou de sensação na
+            genitália. Com muita frequência, médicos optam pela designação
+            feminina forçada porque é mais fácil construir uma vulva do que um
+            pênis.
           </p>
         </div>
       </div>

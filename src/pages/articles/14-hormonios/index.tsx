@@ -29,12 +29,12 @@ const Hormonios = () => (
         <strong>Receptores Hormonais</strong>
       </h2>
       <p>
-        Um receptor é como uma fechadura com diferentes “chaves”. Cada célula do
+        Um receptor é como uma fechadura com diferentes “chaves". Cada célula do
         corpo possui um conjunto de mecanismos que ativam diferentes funções
         dentro dessa célula. Eles são como interruptores que sinalizam para a
         célula que ela deve ativar uma parte diferente de sua sequência
         genética. Os receptores são ativados com determinados compostos
-        químicos, como se estes fossem “chaves” que abrem a “fechadura” para
+        químicos, como se estes fossem “chaves" que abrem a “fechadura" para
         desencadear este processo. Diferentes compostos químicos têm diferentes
         capacidades de ativar um mesmo receptor.
       </p>
@@ -48,7 +48,7 @@ const Hormonios = () => (
         um receptor, mas não o ativam, são chamados de{" "}
         <strong>Antagonistas </strong>– estes bloqueiam que o receptor seja
         ativado por outras substâncias. Os compostos que são capazes de ativar o
-        receptor e “girar a chave” são chamados de <strong>Agonistas</strong>.
+        receptor e “girar a chave" são chamados de <strong>Agonistas</strong>.
         Se o composto ativar um receptor apenas um pouco, é chamado de{" "}
         <strong>Agonista Parcial</strong>. Também existem substâncias{" "}
         <strong>inibidoras</strong>, que são compostos que diminuem a velocidade

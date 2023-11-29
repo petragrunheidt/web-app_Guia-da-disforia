@@ -29,32 +29,32 @@ const HoverMenu = ({ items }: HoverMenuProps) => {
   };
 
   return (
-    <Box
+    <div
       className={styles.container}
       onMouseOver={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      <Button>Hover to Open Menu</Button>
+      <h3>Menu</h3>
       {hovering && (
         <List disablePadding>
-          <Box className={styles.openMenuContainer}>
+          <div className={styles.openMenuContainer}>
             {items.map((item) => (
               <ListItem key={`Link to ${item.title}`}>
-                <ListItemButton>
-                  <Link className={styles.link} href={item.href}>
+                <Link className={styles.link} href={item.href} onClick={() => setHovering(false)}>
+                  <ListItemButton>
                     <ListItemText primary={
                       <Typography className={styles.listItem} color={currentUrl== item.href ? 'primary.main' : 'black'}>
                         {item.title}
                       </Typography>}
                     />
-                  </Link>
-                </ListItemButton>
+                  </ListItemButton>
+                </Link>
               </ListItem>
             ))}
-          </Box>
+          </div>
         </List>
       )}
-    </Box>
+    </div>
   );
 }
 

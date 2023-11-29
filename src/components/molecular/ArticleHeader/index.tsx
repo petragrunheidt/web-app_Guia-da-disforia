@@ -1,14 +1,14 @@
-import Typography from "@mui/material/Typography";
-import React from 'react'
+import styles from './index.module.css';
 
 type ArticleHeaderProps = {
   title: string
 }
 
 const ArticleHeader = ({title}: ArticleHeaderProps) => (
-  <>
-    <Typography variant="h1" color="primary.main">{title}</Typography>
-  </>
+  <div className={styles.wrapper}>
+    <div className={styles['cover-image']} />
+    <h1 className={styles.title}>{title}</h1>
+  </div>
 );
 
 
